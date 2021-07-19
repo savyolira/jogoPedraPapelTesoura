@@ -33,6 +33,7 @@ button{
 }
 #tesoura{
     background-color: yellow;
+    padding: 40px 35px 40px 30px;
 }
 @media screen and (min-width: 800px) {
     .button{
