@@ -23,7 +23,7 @@ pedra.addEventListener("click", function(){
         const span = document.createElement('span');
         span.innerText = ' O computador tirou tesoura, você ganhou!';
         resultado.appendChild(span);
-    }    
+    }
 })
 
 papel.addEventListener("click", function(){
